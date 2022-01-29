@@ -5,7 +5,9 @@ Verifique, de duas maneiras diferentes entre si,
 Palíndromo: frase ou palavra que se pode ler,
 indiferentemente, da esquerda para a direita ou vice-versa
  (ex.: raiar, ama, ovo, radar)*/
-// Solução 01//
+
+// Solução 01 //
+
 function verificaPalindromo(string) {
     if (!string)
         return;
