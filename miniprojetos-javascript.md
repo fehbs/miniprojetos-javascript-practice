@@ -1,3 +1,3 @@
-# miniprojetos-javascript-practice
+# Miniprojetos-Javascript-practice
 
 
